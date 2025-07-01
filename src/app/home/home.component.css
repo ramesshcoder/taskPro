@@ -1,0 +1,23 @@
+.nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+    height: 130px;
+    justify-content: space-around;
+    color: white;
+}
+.logo{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    margin-left: 10%;
+    
+}
+.nav-links li{
+    
+    justify-content: space-evenly;margin: 20px;
+}
